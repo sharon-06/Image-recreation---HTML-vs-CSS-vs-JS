@@ -1,0 +1,36 @@
+h1{
+    text-align:center;
+    font-size:70px;
+    color:white;
+  }
+  .name{
+    font-family:serif;
+    font-size:50px;
+    color:white;
+  }
+  }
+  .img{
+    padding-right:5%;
+  }
+  td{
+    width:100px;
+    height:100px;
+    padding-left:3px;
+  }
+  table{
+    width:100%;
+  }
+  div{
+    color:white;
+    font-size:20px;
+  }
+  .text{
+    color:white;
+  }
+  body{
+    background: rgb(34, 179, 236);
+  }
+  td{
+    border-bottom:1px solid white;
+    border-collpase:collapse;
+  }
